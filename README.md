@@ -47,3 +47,20 @@ This project provides a comprehensive sales analysis solution built in Microsoft
 ---
 
 ## 📂 Project Structure
+
+---
+
+## 💡 Business Insights Delivered
+
+- Identify top-performing sales representatives  
+- Monitor regional sales performance  
+- Track category-wise contribution  
+- Support data-driven decision making  
+
+---
+
+## 👤 Author
+
+**Manjesh Kushwaha**
+
+If you like this project, feel free to ⭐ the repository.
