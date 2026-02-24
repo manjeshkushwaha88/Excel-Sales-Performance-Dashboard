@@ -1,40 +1,34 @@
-# 📊 Excel Sales Performance Dashboard
+# 📊 Sales Performance Dashboard (Excel Project)
 
-An interactive Excel dashboard designed to analyze sales performance across regions, categories, and sales representatives using dynamic charts and KPI metrics.
+## 📌 Project Summary
 
----
-
-## 🚀 Project Overview
-
-This project provides a comprehensive sales analysis solution built in Microsoft Excel. It helps stakeholders quickly identify trends, top performers, and regional performance using an interactive and visually appealing dashboard.
+This Excel Sales Performance Dashboard provides interactive insights into regional sales trends, top-performing sales representatives, and category-wise contributions. The dashboard helps stakeholders make data-driven business decisions through dynamic visualizations and KPI tracking.
 
 ---
 
-## 🎯 Key Features
-
-- 📈 Dynamic sales trend analysis  
-- 🧑‍💼 Top salesman performance tracking  
-- 🌍 Region-wise sales insights  
-- 📊 Category-wise breakdown  
-- ⚡ Interactive slicers and filters  
-- 📉 KPI cards for quick decision-making  
-
----
-
-## 🛠 Tools & Technologies
+## 🛠 Tools Used
 
 - Microsoft Excel  
 - Pivot Tables  
 - Pivot Charts  
 - Slicers  
-- KPI Metrics  
-- Data Cleaning Techniques  
+- Conditional Formatting  
 
 ---
 
-## 📸 Dashboard Preview
+## 🧠 Skills Demonstrated
 
-### 🔹 Sales Overview
+- Data Cleaning  
+- Data Visualization  
+- Dashboard Design  
+- Business Analysis  
+- Excel Advanced Functions  
+
+---
+
+## 📷 Dashboard Preview
+
+### 🔹 Sales Trend & Regional Analysis
 
 ![Dashboard Overview](images/sales_trend_region_analysis.png)
 
@@ -46,7 +40,17 @@ This project provides a comprehensive sales analysis solution built in Microsoft
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
+
+---
+
+## 📊 Key Metrics Tracked
+
+- Total Sales  
+- Regional Performance  
+- Top Sales Representatives  
+- Category-wise Sales Contribution  
+- Monthly Sales Trend  
 
 ---
 
@@ -62,5 +66,8 @@ This project provides a comprehensive sales analysis solution built in Microsoft
 ## 👤 Author
 
 **Manjesh Kushwaha**
+
+🎓 MBA (Finance) Aspirant  
+📊 Interested in Data Analytics & Business Intelligence  
 
 If you like this project, feel free to ⭐ the repository.
